@@ -1,0 +1,13 @@
+{
+    "users" : [
+        {"id": 1, "Name": "Jack Fosh", "email": "jackfosh@test.mail"},
+
+        {"id": 2, "Name": "Jane Fosh", "email": "janefosh@test.mail"},
+    
+        {"id": 3, "Name": "Joe Fosh", "email": "joefosh@test.mail"}
+    ],
+
+    "comments" : [
+        {"id": 1, "Body": "Some comment", "userID": 1}
+    ]
+}
